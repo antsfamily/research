@@ -1,11 +1,14 @@
-# Research
+﻿# Research
 
 My Personal Research
 
 
 ## Interests
 
-[压缩感知]()  [深度学习]()  [机器学习]() [目标检测]() [图像压缩]() [无线电信号识别]() [合成孔径雷达成像]() [嵌入式软硬件开发]().
+
+![](./Interests.png)
+
+压缩感知(Compressive Sensing)、 深度学习(Deep Learning)、 机器学习(Machine Learning), 目标检测(Object Detection) 图像压缩(Image Compression), 毫米波雷达(Millimeter Wave Radar)、合成孔径雷达成像(Synthetic Aperture Radar Imaging)、嵌入式软硬件(Embedded Software and Hardware).
 
 
 ## Publications
@@ -26,4 +29,7 @@ My Personal Research
 7. **刘志**. (2012). 指数函数和对数函数的图像交点个数. 高等数学研究,15(5), 43-45. [pdf](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=gdsxyj201205024) [blog](https://blog.csdn.net/enjoyyl/article/details/11602431)
 
 
+## Reports
 
+1. 深度生成式模型(Deep Generative Models): [slider](./reports/pdf/20160507DeepGenerativeModels.pdf)
+2. 深度学习实践(Deep Learning Practice): [slider](./reports/pdf/20180620DeepLearningPractice.pdf)
