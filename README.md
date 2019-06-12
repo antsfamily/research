@@ -2,6 +2,9 @@
 
 My Personal Research
 
+``压缩感知`` 、``深度学习``、机器学习, 目标检测、图像压缩、无线电信号识别、合成孔径雷达成像, 具有一定的嵌入式软硬件开发经验.
+
+<kbd>Ctrl</kbd> 
 
 ## Publications
 
