@@ -99,6 +99,11 @@ venv.bak/
 
 # mkdocs documentation
 /site
+_site
+
+# jekyll
+Gemfile.lock
+.jekyll-cache/
 
 # mypy
 .mypy_cache/
