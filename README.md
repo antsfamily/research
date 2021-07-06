@@ -9,3 +9,5 @@ My Personal Research
 - [Awards](./Awards/index.md)
 - [Demonstrations](./Demonstrations/index.md)
 
+[My Resume](./zhiliu.pdf)
+
