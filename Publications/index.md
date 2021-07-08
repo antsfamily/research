@@ -28,7 +28,7 @@
 
 ## Dissertation
 
-<img src="./Details/Dissertation/PaperStructure.png" style="zoom:75%;" />
+![](./Details/Dissertation/PaperStructure.png "Paper Structure")
 
 
 ## Details
