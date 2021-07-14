@@ -6,7 +6,7 @@
 ## Paper
 
 
-- **Liu, Z.**, Yang, S., Feng, Z., Gao, Q., Wang, M. . (2021).  Fast SAR Autofocus Based on Ensemble Convolutional Extreme Learning Machine. Remote Sensing, 13, 2683. [pdf](https://www.mdpi.com/2072-4292/13/14/2683/pdf), [doi](https://www.mdpi.com/2072-4292/13/14/2683), [code](https://github.com/aisari/AutofocusSAR), [ga](./Details/AutofocusSAR/GraphicalAbstractBaggingECELMs.png)
+- **Liu, Z.**, Yang, S., Feng, Z., Gao, Q., Wang, M. . (2021).  Fast SAR Autofocus Based on Ensemble Convolutional Extreme Learning Machine. Remote Sensing, 13, 2683. [pdf](https://www.mdpi.com/2072-4292/13/14/2683/pdf), [doi](https://www.mdpi.com/2072-4292/13/14/2683), [code](https://github.com/aisari/AutofocusSAR), [ga](./Details/AutofocusSAR/GraphicalAbstractBaggingECELMs.png), [bib](./bib/RS2021BaggingECELMs.bib)
 
 - Yang, S. , **Liu, Z.** , Gao, Q. Feng, Z. . (2019). Extreme Self-Paced Learning Machine for On-Orbit SAR Images Change Detection. IEEE Access, 7, 116413-116423. [pdf](https://ieeexplore.ieee.org/document/8796343), [doi](https://doi.org/10.1109/ACCESS.2019.2934983)
 
