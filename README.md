@@ -7,7 +7,6 @@ My Personal Research
 - [Publications](./Publications/index.md)
 - [Reports](./Reports/index.md)
 - [Awards](./Awards/index.md)
-- [Demonstrations](./Demonstrations/index.md)
 
-[My Resume](./zhiliu.pdf)
+
 
