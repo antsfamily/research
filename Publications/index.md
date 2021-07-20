@@ -5,6 +5,7 @@
 
 ## Paper
 
+- **Liu, Z.**, Yang, S., Feng, Z., Gao, Q., Wang, M., Jiao L. . (2021). AFnet and PAFnet: Fast and Accurate SAR Autofocus Based on Deep Learning [J]. IEEE Transactions on Image Processing, (待投，一区)
 
 - **Liu, Z.**, Yang, S., Feng, Z., Gao, Q., Wang, M. . (2021).  Fast SAR Autofocus Based on Ensemble Convolutional Extreme Learning Machine. Remote Sensing, 13, 2683. [pdf](https://www.mdpi.com/2072-4292/13/14/2683/pdf), [doi](https://www.mdpi.com/2072-4292/13/14/2683), [code](https://github.com/aisari/AutofocusSAR), [ga](./Details/AutofocusSAR/GraphicalAbstractBaggingECELMs.png), [bib](./bib/RS2021BaggingECELMs.bib)
 
