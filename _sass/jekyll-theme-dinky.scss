@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:36px 0 10px;
 }
 
-p, ul, ol, table, dl {
+p, ul, ol, dl {
   margin:0 0 22px;
 }
 
@@ -183,14 +183,9 @@ pre {
 /* Tables */
 
 table {
-  width:100%;
+  width: 100%;
+  margin: 0 0 20px 0;
 }
-
-table {
-  border: 1px solid #ccc;
-  margin-bottom: 32px;
-  text-align: left;
- }
 
 th {
   font-family: 'Arvo', Helvetica, Arial, sans-serif;
