@@ -2,9 +2,10 @@
 
 ## Lists
 
-19. 2019遥感图像稀疏表征与智能分析竞赛, (国家级, 三等奖), ``基于自步ASPP-Ynet的建筑物变化检测方法``,  [link](https://article.xuexi.cn/articles/index.html?study_style_id=feeds_default&study_comment_disable=1&art_id=16850686553906204646&source=share&share_to=wx_single)
+20. 2022.12 首届粤港澳大湾区国际算法算例大赛 (一等, 国际级)
+19. 2019.09 遥感图像稀疏表征与智能分析竞赛 (三等, 国家级), ``基于自步ASPP-Ynet的建筑物变化检测方法``, [link](https://article.xuexi.cn/articles/index.html?study_style_id=feeds_default&study_comment_disable=1&art_id=16850686553906204646&source=share&share_to=wx_single)
 18. 2019.03 西安电子科技大学二等奖学金 (博士)
-17. 2017.10 第七届 IPIU 杯影像大数据智能竞赛 (特等，校级)
+17. 2017.10 第七届 IPIU 杯影像大数据智能竞赛 (特等, 校级)
 16. 2017.03 西安电子科技大学一等奖学金 (博士)
 15. 2016.09 西安电子科技大学一等奖学金 (硕士)
 14. 2015.12 硕士研究生国家奖学金
